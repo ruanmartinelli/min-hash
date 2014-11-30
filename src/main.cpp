@@ -113,7 +113,7 @@ int main() {
 	cout << "Esse valor representa  similaridade de dois conjuntos finitos." << 	endl;
 	cout << "Na estrutura de dados MinHash, o coeficiente de Jaccard representa" << endl;
 	cout << "também a probabilidade do menor valor de hash do conjunto ser igual"<<	endl;
-	cout << "ao menor valor do outro conjunto." << endl;
+	cout << "ao menor valor do outro conjunto."									 << endl;
 	
 	system("pause");
 	return 	0;
